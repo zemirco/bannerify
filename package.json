@@ -6,6 +6,10 @@
   "scripts": {
     "test": "make test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zemirco/bannerify.git"
+  },
   "author": "Mirco Zeiss <mirco.zeiss@gmail.com>",
   "license": "MIT",
   "devDependencies": {
