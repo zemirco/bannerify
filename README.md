@@ -26,7 +26,7 @@ Example `banner.txt` template file.
  */
 ```
 
-output
+Output
 
 ```
 /**
@@ -49,7 +49,7 @@ $ browserify index.js -p [bannerify --template '/** hello world */'] > bundle.js
 ##### Template file
 
 ```
-$ browserify index.js -p [bannerify --file banner.txt ] > bundle.js
+$ browserify index.js -p [bannerify --file ./banner.txt ] > bundle.js
 ```
 
 ## Test
