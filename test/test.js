@@ -42,7 +42,7 @@ describe('bannerify', function() {
     });
     b.bundle(function(err, buff) {
       assert.ifError(err);
-      assert.notEqual(buff.toString().indexOf('Mirco Zeiss <mirco.zeiss@hbm.com>'), -1);
+      assert.notEqual(buff.toString().indexOf('Mirco Zeiss <mirco.zeiss@gmail.com>'), -1);
       done();
     });
   });

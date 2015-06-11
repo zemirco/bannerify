@@ -1,6 +1,8 @@
 
 # bannerify
 
+[![Build Status](https://travis-ci.org/zemirco/bannerify.svg?branch=master)](https://travis-ci.org/zemirco/bannerify)
+
 Add banner to your browserify bundle.
 
 ## Installation
