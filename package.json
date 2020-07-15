@@ -18,7 +18,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "lodash": "^3.9.3",
+    "lodash": "^4.17.19",
     "moment": "^2.10.3",
     "through2": "^0.6.5"
   }
